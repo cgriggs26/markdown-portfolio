@@ -1,1 +1,3 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+Master's in Applied Mathematics, *North Carolina State University*
+
+Bachelor's in Applied Mathematics, *University of Texas at Dallas*
